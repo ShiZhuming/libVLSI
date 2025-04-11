@@ -6,6 +6,7 @@
 *.lo
 *.o
 *.obj
+*.so
 
 # Precompiled Headers
 *.gch
@@ -30,3 +31,16 @@
 *.exe
 *.out
 *.app
+
+# VS Code configuration
+.vscode/
+
+# Data sets
+datasets/
+
+# Python virtual environments
+.venv/
+
+# test files
+*.cvs
+*.txt
